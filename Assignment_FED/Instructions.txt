@@ -1,1 +1,12 @@
+Instructions (local setup)
+- Extract the Assignment_source_code.zip file from the above mentioned GitHub path.
+- Once extracted give 'yarn' to install the required packages
+- After packages are installed, to serve the project give 'yarn serve'
+- This will run the project in the available port (http://localhost:3000)
 
+note:
+I have user JSON-server in the local it includes in the package, for hosting purpose online JSON-server(GitHub based server) is used.
+
+reference:
+main package:https://www.npmjs.com/package/json-server
+reference from the main package:https://my-json-server.typicode.com/
